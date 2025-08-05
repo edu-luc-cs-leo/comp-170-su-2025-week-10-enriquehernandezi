@@ -1,7 +1,0 @@
-in sum of digits, the solutions made a base equal 10, which i did not do and instead of n < 10, solutions used the base as n < 10 making the code more flexible
-solutions also included return n if n < base else (n % base) + sum_of_digits(n // base, base) which i did not include.
-in definition of count occurences i did not include list[int]. Lacked the use of 'source' to make code more flexible and again missed last return code return (1 if source[0] == target else 0) + count_occurrences_opt2(source[1:], target)
-Again factoril iterative I missed putting type hints in the definition. Did not add n +1 in range function as well and again missed last return function.
-In fibonacci iterative again I missed the type hints, I started fibonacci sequence at 1 while solutions state to start at 0. result = b could be confusing but is the same as result = temp, and result = fib is basically the same thing.
-
-Class Reflection

@@ -1,0 +1,28 @@
+Final Reflection
+
+1. Attendance and Punctuality
+- For the course of this class I have done my best to be on time every time I can. I have missed a couple of classes not more than 5 i beileve but most of the times I have sent 
+an email to the professor explaining why with a valid excuse. I am currently on a fulltime internship 40 hours a week and while they do offer flexibility 
+when it comes to university classes, exceptions happen and sometimes meetings run long or a supervisor wants to speak with me about an ongoing project.
+I beileve that with my resources and situation as of now I have tried to attend every class as possible as I could, and have particpated a couple of times proving my 
+attentiveness to the class.
+2. Participation and Engagement
+- I actively particpated in this class relatively more than most of the class, I will not say I particpated in every class but I did do my fair 
+share of participation, particularly answering questions or giving ideas for soemthing to code, like what attributes does a person have. I did do work outside of class, I did look for 
+alternative ways to code certain assignments, either by making it shorter or just being more specific when faced with code that I couldn't wrap my head around 
+easily. I have also applied it outside of class as in my current internship one of the projects I am doing is doing data cleanup through vscode in python.
+3. Presence and Focus
+- I was mentally present during the lectures, I will say about 75% just because it would be unrealistic for me to say 90-100% considering I am in the Gen Z 
+generation (short attention span). I would reccomend to professor Leo to implement more hands on or discussion based lectures for students to be more attentive 
+during class. I never multitasked during class, not a single time I always took the class in a chair and desk with my camera on at all times. I did not seek help outside of class involving 
+office hours, or just overall questions about the homework. I did reach out once about a problem i was running into in github but I beileve I emailed it to the professor's office email not 
+his personal email. And I think he never really saw it or got it. 
+4. Assignment Timeliness
+- 100% percent delivered all of my assignments on time except for one that I think I delivered 20 mins late because of an error on github that was not letting commit, and so I had to directly edit the file from the organizations menu in cs leo repository.
+5. Reflection and growth
+- I did review the posted solutions and often times more at the beginning noticed the big improvements i could have done, halfway of the class i didn't find 
+as much and overall saw the same code just structured differently more compact and so i started doing that with my code. 
+6. Code Quality
+- I can't recall 100% but I am almost sure that all assignments delivered followed the code requirements, there were i beileve two homeworks i didnt understand that well that I did leave black one of the exercises. 
+7. Final Thoughts
+- Beginning of this class I honestly beileved it would be things I have already learned in the past since this wasnt my first Python class, I was proved wrong and I appreciate that, because now I know how to make an app contianing object oriented programming. i know different ways to simplify my code and make it more compact and leanred how to structure code into classes and objects. 
